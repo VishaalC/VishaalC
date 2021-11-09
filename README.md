@@ -6,8 +6,6 @@ I'm still fairly new to this, so my projects are kinda simple but regardless wel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalC&hide=Tcl&layout=compact&theme=bear)](https://github.com/VishaalC/github-readme-stats)
 [![VishaalC's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishaalC&theme=bear)](https://github.com/VishaalC/github-readme-stats)
-
-
 [![VishaalC's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VishaalC&theme=bear)](https://github.com/VishaalC/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
