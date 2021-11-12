@@ -5,7 +5,6 @@ I'm still fairly new to this, so my projects are kinda simple but regardless wel
 ### &#128200; Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalC&hide=Tcl&layout=compact&theme=bear)](https://github.com/VishaalC/github-readme-stats)
-
 [![VishaalC's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishaalC&theme=bear&show_icons=true)](https://github.com/VishaalC/github-readme-stats)
 [![VishaalC's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VishaalC&theme=bear)](https://github.com/VishaalC/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VishaalC&repo=password-generator&theme=bear)](https://github.com/VishaalC/password-generator)
