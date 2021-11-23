@@ -13,7 +13,6 @@ C        1 hr 7 mins     ██████████████████�
 Python   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 ```
 <!--END_SECTION:waka-->
-
 ## I kinda know these I guess
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=appveyor&logo=<python>&logoColor=#3776AB&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=appveyor&logo=<C>&logoColor=#3776AB&color=2bbc8a)
