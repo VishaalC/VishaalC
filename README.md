@@ -8,6 +8,12 @@ I'm still fairly new to this, so my projects are kinda simple but regardless wel
 [![VishaalC's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishaalC&theme=bear&show_icons=true)](https://github.com/VishaalC/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VishaalC&repo=password-generator&theme=bear)](https://github.com/VishaalC/password-generator)
 <!--START_SECTION:waka-->
+```text
+Week: 16 November, 2021 - 22 November, 2021
+
+C        ████████████████████████████████████▒░░░░   88.36 % 
+Python   ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+```
 <!--END_SECTION:waka-->
 ## I kinda know these I guess
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=appveyor&logo=<python>&logoColor=#3776AB&color=2bbc8a)
