@@ -10,10 +10,9 @@ I'm still fairly new to this, so my projects are kinda simple but regardless wel
 ### &#128200; Wakatime stats
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-C        ███████████████████████░░░░░░░░░░░░░░░░░░   56.49 % 
-Python   ██████████████████░░░░░░░░░░░░░░░░░░░░░░░   43.51 % 
+Python   █████████████████████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ## I kinda know these I guess
