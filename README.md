@@ -10,7 +10,7 @@ I'm still fairly new to this, so my projects are kinda simple but regardless wel
 ### &#128200; Wakatime stats
 <!--START_SECTION:waka-->
 ```text
-Week: 27 November, 2021 - 03 December, 2021
+Week: 28 November, 2021 - 04 December, 2021
 
 Python   ███████████████████████████▓░░░░░░░░░░░░░   67.65 % 
 C++      █████████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░   32.26 % 
