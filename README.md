@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalC&hide=Tcl&layout=compact&theme=bear)](https://github.com/VishaalC/github-readme-stats)
 [![VishaalC's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishaalC&theme=bear&show_icons=true)](https://github.com/VishaalC/github-readme-stats)
 
-## I kinda know these I guess
+## I've Worked With These
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=appveyor&logo=<python>&logoColor=#3776AB&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=appveyor&logo=<C>&logoColor=#3776AB&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=appveyor&logo=C++>&logoColor=#3776AB&color=2bbc8a)
