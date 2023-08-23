@@ -3,7 +3,7 @@
 
 ### &#128200; Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalC&hide=Tcl&layout=compact&theme=bear)](https://github.com/VishaalC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaalC&hide=Tcl,Jupyter%20Notebook&layout=compact&theme=bear)](https://github.com/VishaalC/github-readme-stats)
 [![VishaalC's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishaalC&theme=bear&show_icons=true)](https://github.com/VishaalC/github-readme-stats)
 
 ## I've Worked With These
